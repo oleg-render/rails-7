@@ -2,6 +2,7 @@ databases:
   - name: myrailssite
     databaseName: myrailssite
     user: myrailssite
+    region: ohio
 
 services:
   - type: web
